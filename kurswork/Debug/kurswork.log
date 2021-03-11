@@ -1,0 +1,4 @@
+﻿  coding.cpp
+C:\Users\Lenovo\Desktop\Разное\RGZ\KursSAO\kurswork\kurswork\coding.cpp(29,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Lenovo\Desktop\Разное\RGZ\KursSAO\kurswork\kurswork\coding.cpp(96,37): warning C4244: +=: преобразование "double" в "int", возможна потеря данных
+  kurswork.vcxproj -> C:\Users\Lenovo\Desktop\Разное\RGZ\KursSAO\kurswork\Debug\kurswork.exe
